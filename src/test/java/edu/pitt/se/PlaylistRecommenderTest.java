@@ -18,7 +18,7 @@ public class PlaylistRecommenderTest {
 
     @Test
     public void testValidTitle() {
-        assertTrue(PlaylistRecommender.isValidTrackTitle("Key 2 my Heart"));
+        assertTrue(PlaylistRecommender.isValidTrackTitle("Key to my Heart"));
     }
 
     @Test 
